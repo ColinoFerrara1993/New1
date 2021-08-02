@@ -1,7 +1,6 @@
-# New1
-Titolo: Predire la mortalità del Sars-Covid 19, con modelli di analisi multivariata
+# Predict mortality of Sars-Covid 19 with multivariate analysis
 
-Abstract: La sintomatologia della Sars-Cov-2 è molto varia, la maggior parte delle persone presenta sintomi lievi o moderati e guarisce senza ricovero, ma una percentuale bassa presenta sintomi gravi che possono portare alla morte. Particolare rilevanza sulla gravità dei sintomi e sulla mortalità del virus hanno le malattie pregresse del paziente.
-Quello che ci proponiamo in questo progetto è fare uno studio di fattibilità di un’analisi multivariata basandoci su un database di soggetti positivi al virus, alcuni guariti altri deceduti, con l’obiettivo di classificare la mortalità in base alle patologie pregresse dei soggetti, e capire quali sono i pazienti più a rischio.
-Andremo a sfruttare diversi tipologie di modelli di Supervised learning ( Random Forest, Logistic Regression, Bayesian, Decision Tree,  k-Nearest Neighbour, Neural Network) e in base alla accuratezza del modello e alla conseguente curva ROC, cercheremo di individuare il modello con la migliore capacità predittiva. 
-Il framework utilizzato sarà basato sulle librerie Pandas , Scikit-learn, Tensorflow di Python.
+The symptomatology of Sars-Cov-2 consists of several effects, most people have mild or moderate symptoms and are recovered without hospitalization, but a low percentage have severe symptoms that can lead to death. The patient's previous illnesses have particular relevance on the severity of symptoms and on the mortality of the virus.
+What we propose in this project is to carry out a feasibility study of a multivariate analysis based on a database of subjects positive for the virus, some recovered and others deceased, with the aim of classifying mortality based on the previous pathologies of the subjects, and understand which patients are most at risk.
+We will exploit different types of Supervised learning models (Random Forest, Logistic Regression, Bayesian, Decision Tree, k-Nearest Neighbor, Neural Network) and based on the accuracy of the model and the consequent ROC curve, we will try to identify the model with the better predictive ability.
+The framework used will be based on Python's Pandas, Scikit-learn, Tensorflow libraries.

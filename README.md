@@ -6,3 +6,5 @@ We will exploit different types of Supervised learning models (Random Forest, Lo
 The framework used will be based on Python's Pandas, Scikit-learn, Tensorflow libraries.
 
 Dataset: https://www.kaggle.com/riteshahlawat/covid19-mexico-patient-health-dataset
+
+Documentation: https://dergipark.org.tr/tr/download/article-file/1138706
